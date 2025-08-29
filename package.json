@@ -1,34 +1,34 @@
 {
-  "name": "eleventy-plugin-rubber-stamp",
-  "version": "2.0.0",
-  "description": "An Eleventy plugin that adds a rubber stamp shortcode for creating vintage-style travel stamps",
-  "main": "index.js",
-  "type": "module",
-  "keywords": [
-    "eleventy",
-    "11ty",
-    "plugin",
-    "rubber-stamp",
-    "travel",
-    "vintage",
-    "shortcode",
-    "stamp",
-    "design"
-  ],
-  "author": "Andrew Walker",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/awalkerca/eleventy-plugin-rubber-stamp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/awalkerca/eleventy-plugin-rubber-stamp/issues"
-  },
-  "homepage": "https://github.com/awalkerca/eleventy-plugin-rubber-stamp#readme",
-  "peerDependencies": {
-    "@11ty/eleventy": ">=3.0.0"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+    "name": "eleventy-plugin-rubber-stamp",
+    "version": "2.0.1",
+    "description": "An Eleventy plugin that adds a rubber stamp shortcode for creating vintage-style travel stamps",
+    "main": "index.js",
+    "type": "module",
+    "keywords": [
+        "eleventy",
+        "11ty",
+        "plugin",
+        "rubber-stamp",
+        "travel",
+        "vintage",
+        "shortcode",
+        "stamp",
+        "design"
+    ],
+    "author": "Andrew Walker",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/awalkerca/eleventy-plugin-rubber-stamp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/awalkerca/eleventy-plugin-rubber-stamp/issues"
+    },
+    "homepage": "https://github.com/awalkerca/eleventy-plugin-rubber-stamp#readme",
+    "peerDependencies": {
+        "@11ty/eleventy": ">=3.0.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
 }

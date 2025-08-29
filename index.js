@@ -51,6 +51,6 @@ export default function eleventy11tyPluginRubberStamp(eleventyConfig, options = 
             element = `<span class="text">${text}</span>`;
         }
 
-        return element ? wrap(element + `<span class="date">${date}</span>`) : "";
+        return element ? wrap(element + `<span class="year">${year}</span>`) : "";
     });
 }
