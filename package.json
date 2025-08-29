@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-rubber-stamp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An Eleventy plugin that adds a rubber stamp shortcode for creating vintage-style travel stamps",
   "main": "index.js",
   "type": "module",
